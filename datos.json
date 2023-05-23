@@ -1,0 +1,39 @@
+[
+    {
+      "precio": 1910,
+      "id": 1,
+      "title": "VAT 69",
+      "thumbnailUrl": "../img/vat-69-1 (2).jpg"
+    },
+    {
+      "precio": 2915,
+      "id": 2,
+      "title": "WHITE HORSE",
+      "thumbnailUrl": "../img/White Hoorse (2).jpg"
+    },
+    {
+      "precio": 11980,
+      "id": 3,
+      "title": "JACK DANIELS",
+      "thumbnailUrl": "../img/Whisky-Jack-Daniels.webp"
+    },
+    {
+      "precio": 8960,
+      "id": 4,
+      "title": "RED LABEL",
+      "thumbnailUrl": "../img/red-label (2).jpg"
+    },
+    {
+      "precio": 4750,
+      "id": 5,
+      "title": "JYB",
+      "thumbnailUrl": "../img/whisky-jb (2).jpg"
+    },
+    {
+      "precio": 6770,
+      "id": 6,
+      "title": "GRANT´S",
+      "thumbnailUrl": "../img/grants (2).jpg"
+    }
+  ]
+  
